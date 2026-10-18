@@ -110,5 +110,19 @@
     "artist": ".",
     "genre": "기타",
     "vod": "https://vod.sooplive.com/player/207014697"
+  },
+  {
+    "id": "vod-207169829",
+    "title": "가을 아침",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/207169829"
+  },
+  {
+    "id": "vod-207358585",
+    "title": "썸데이",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/207358585"
   }
 ]
