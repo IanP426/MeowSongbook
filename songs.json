@@ -124,5 +124,19 @@
     "artist": ".",
     "genre": "기타",
     "vod": "https://vod.sooplive.com/player/207358585"
+  },
+  {
+    "id": "vod-207505049",
+    "title": "취급설명서",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/207505049"
+  },
+  {
+    "id": "vod-208573593",
+    "title": "안녕",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/208573593"
   }
 ]
