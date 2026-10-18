@@ -250,5 +250,12 @@
     "artist": ".",
     "genre": "기타",
     "vod": "https://vod.sooplive.com/player/209391955"
+  },
+  {
+    "id": "vod-209590203",
+    "title": "여우비",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/209590203"
   }
 ]
