@@ -5,5 +5,19 @@
     "artist": "아이즈원",
     "genre": "K-POP",
     "vod": "https://vod.sooplive.com/player/204676019"
+  },
+  {
+    "id": "vod-205010011",
+    "title": "하나둘팬클럽!",
+    "artist": "いーあるふぁんくらぶ",
+    "genre": "J-POP",
+    "vod": "https://vod.sooplive.com/player/205010011"
+  },
+  {
+    "id": "vod-205086891",
+    "title": "상하이 로맨스",
+    "artist": "오렌지 캬라멜",
+    "genre": "K-POP",
+    "vod": "https://vod.sooplive.com/player/205086891"
   }
 ]
