@@ -102,7 +102,7 @@
     "title": "산책",
     "artist": ".",
     "genre": "기타",
-    "vod": "https://vod.sooplive.com/player/206742931"
+    "vod": "https://vod.sooplive.com/player/209391187"
   },
   {
     "id": "vod-207014697",
@@ -222,5 +222,12 @@
     "artist": ".",
     "genre": "기타",
     "vod": "https://vod.sooplive.com/player/210058317"
+  },
+  {
+    "id": "vod-209390993",
+    "title": "소나기",
+    "artist": ".",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/209390993"
   }
 ]
