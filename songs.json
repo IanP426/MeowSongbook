@@ -334,5 +334,12 @@
     "artist": "QWER",
     "genre": "K-POP",
     "vod": "https://vod.sooplive.com/player/210129263"
+  },
+  {
+    "id": "vod-210328669",
+    "title": "소나기",
+    "artist": "아이오아",
+    "genre": "발라드",
+    "vod": "https://vod.sooplive.com/player/210328669"
   }
 ]
