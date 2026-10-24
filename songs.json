@@ -341,5 +341,12 @@
     "artist": "아이오아",
     "genre": "발라드",
     "vod": "https://vod.sooplive.com/player/210328669"
+  },
+  {
+    "id": "vod-210482513",
+    "title": "사랑하게될거야",
+    "artist": "한로로",
+    "genre": "기타",
+    "vod": "https://vod.sooplive.com/player/210482513"
   }
 ]
